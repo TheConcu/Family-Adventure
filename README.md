@@ -11,6 +11,6 @@ The idea is to give players a fun, light adventure with a couple of funny moment
 
 Story made by me, Christopher Womack
 
-You can find and download the game in releases.
+## You can find and download the game in releases.
 
 Site used - Twine, https://twinery.org/

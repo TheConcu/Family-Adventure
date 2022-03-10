@@ -16,4 +16,4 @@ Story made by me, Christopher Womack
 To play: download the .html file then open the file in a web browser.
 
 
-Site used - Twine, https://twinery.org/
+Site used: https://twinery.org/

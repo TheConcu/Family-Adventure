@@ -11,6 +11,9 @@ The idea is to give players a fun, light adventure with a couple of funny moment
 
 Story made by me, Christopher Womack
 
-## You can find and download the game in releases.
+## You can find and download the game in [releases](https://github.com/TheConcu/Family-Adventure/releases/tag/v1.0).
+
+To play: download the .html file then open the file in a web browser.
+
 
 Site used - Twine, https://twinery.org/
